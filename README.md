@@ -12,3 +12,6 @@ This project utilizes a rich, multilingual dataset of actual customer search que
 Rank products intelligently in search results based on contextual relevance to the query rather than just       keywords. Assign accurate classification tags like "Substitute" and "Complement" to returned products depicting the subtype of match. Surface alternative product suggestions when no exact match product exists for the search query.
 Through these focused objectives, the expected outcome is a sophisticated search experience that understands true user intent, provides results catered to search context, and overall delivers more precise, satisfactory recommendations - thereby enhancing customer experiences and loyalty.
 
+### Contributors
+
+Venkata Krishna Rao Chelumkuri, Ratan Sai Rohith Kokku, Harshitha Somala, Siva Akhil Kumar Reddy Nukala
